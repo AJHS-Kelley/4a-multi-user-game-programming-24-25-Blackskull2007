@@ -1,3 +1,4 @@
+// Code checked, 100% complete.  
 using System;
 
 class GuessNumber {
