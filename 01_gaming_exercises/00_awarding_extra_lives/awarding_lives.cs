@@ -10,3 +10,4 @@ static void Main () {
     if (0>100,000)
     Console.WriteLine("gain 2 life")   
 }
+}
